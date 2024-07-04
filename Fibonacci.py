@@ -6,5 +6,5 @@ def fibonacci_sequence(n):
         return sequence
                  
 n=10
-fibonacci = fibonacci_sequence(n)
+fibonacci = (n)
 print(fibonacci)
